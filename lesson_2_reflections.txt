@@ -19,3 +19,12 @@ directory inside the filesystem you currently at.
 The staging area allows you to group files that
 you wish to commit in a single commit to the 
 repository.
+
+3) How can you use the staging area to make sure
+   you have one commit per logical change?
+
+You can do a "git diff --staging" to 
+compare all changes made in the staging area with
+what is currently commited into the repository.
+This will allow you to see what has changed and
+make sure they are all logical commits.
