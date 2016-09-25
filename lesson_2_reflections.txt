@@ -57,3 +57,15 @@ represent them as two lines merging into one
 because in the diagram we still wish to show that
 the commits came from the different branches but
 are all in the history of the new merged branch.
+
+7) What are the pros and cons of Git's automatic
+   merging vs. always doing merges manually?
+
+The pro is that it allows all changes that do not
+occur on the same line  to be incorporated into 
+the merged version without any intervention on 
+the users part.  The con to this is if changes
+in two different sections interact and the changes
+to those sections made by two different people
+are incompatible.  Git would still merge them
+in this case and the problems would occur.
