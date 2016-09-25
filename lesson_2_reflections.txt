@@ -38,3 +38,11 @@ or new experiments separate from the main branch.
 This allows the developer to experiment without
 worrying about damaging or making the main branch
 unusable.
+
+5) How do the diagrams help you visualize the
+   branch structure?
+
+The diagrams allow you to see which commits exist
+in each branch.  This allows you to potentially
+see which features each branch has and which
+bugs may be present in each branch
