@@ -28,3 +28,13 @@ compare all changes made in the staging area with
 what is currently commited into the repository.
 This will allow you to see what has changed and
 make sure they are all logical commits.
+
+4) What are some situations when branches would 
+   be helpful in keeping your history organized?
+   How would branches help?
+
+Branches help keep new features or new versions
+or new experiments separate from the main branch.
+This allows the developer to experiment without
+worrying about damaging or making the main branch
+unusable.
