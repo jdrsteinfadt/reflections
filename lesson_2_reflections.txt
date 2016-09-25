@@ -45,4 +45,15 @@ unusable.
 The diagrams allow you to see which commits exist
 in each branch.  This allows you to potentially
 see which features each branch has and which
-bugs may be present in each branch
+bugs may be present in each branch.
+
+6) What is the result of merging two branches
+   together? Why do we represent it in the diagram
+   the way we do?
+
+Merging two branches effectively incorporates all
+commits of each branch into the same branch. We
+represent them as two lines merging into one
+because in the diagram we still wish to show that
+the commits came from the different branches but
+are all in the history of the new merged branch.
