@@ -1,0 +1,8 @@
+1) When would you want to use a remote repository rather
+   than kekeping all your work local?
+   
+A remote repository is great when you have multile people
+working on code that want to use the same repository.
+Also, having a remote repository can mitigate losing code
+when a hard drive fails by having it mirrored in a separate
+location.
